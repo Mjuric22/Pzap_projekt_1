@@ -1,0 +1,5 @@
+Pokretanje aplikacije je posve jednostavno samo otvorite .ipynb datoteku i idete kroz nju korak po korak. Bitno je samo da se ne izvlači ništa iz datoteke pošto sve mora biti u istome direktoriju! Te jedna datoteka nije se mogla uplodati na GitHub tako da ako samo pregledavate kod biti će uredu. No ako želite datoteku trebati će te proći kroz svaku liniju koda te će se datoteka sama napraviti kroz kod u .json formatu dok budete skidali podatke s RAWG!
+
+Link na jupiter notebook: https://nbviewer.org/github/Mjuric22/Pzap_projekt/blob/main/Pzap_projekt.ipynb
+
+Link na GitHub: https://github.com/Mjuric22/Pzap_projekt
